@@ -1,0 +1,704 @@
+body{
+  /* background: url(neuralnetwork.jpg) no-repeat center center fixed; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+
+}
+p{
+color: white;
+font-family: 'Roboto', sans-serif;
+
+
+}
+.PositionOf1{
+  /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-320, 150%); */
+    width: 10vw;
+    height: 10vh;
+/* Simply position and size of the box that holds the button to open up subDiv  */
+
+
+}
+
+.window {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+}
+#method1{
+Holds the size of the font and make sure it aligns left within the box
+I guess I'm confused how this will all play in during ratio size cuz
+obviously it will change everytime
+
+color: 623008;
+/*  */how do I assign a specific color to this?
+}
+
+.videoBackground{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+
+}
+
+#WindowOf1{
+  background: black;
+width: 45vw;
+height: 45vw;
+float: center;
+align: center;
+text-align: center;
+/* margin-left: 53%; */
+overflow: scroll;
+}
+
+#CloseBoxof1{
+background: red;
+text-align: center;
+margin-right: 30px;
+margin-top: 20px;
+margin-left: 550px;
+float: center;
+align: center;
+
+}
+
+.PositionOf2{
+  /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-320, 150%); */
+    width: 10vw;
+    height: 10vh;
+/* Simply position and size of the box that holds the button to open up subDiv  */
+
+
+}
+#method2{
+Holds the size of the font and make sure it aligns left within the box
+I guess I'm confused how this will all play in during ratio size cuz
+obviously it will change everytime
+
+color: 623008;
+/*  */how do I assign a specific color to this?
+}
+
+#WindowOf2{
+  background: black;
+width: 45vw;
+height: 45vw;
+float: center;
+align: center;
+text-align: center;
+
+overflow: scroll;
+}
+
+#CloseBoxof2{
+background: red;
+text-align: center;
+margin-right: 30px;
+margin-top: 20px;
+margin-left: 550px;
+float: center;
+align: center;
+
+}
+
+.PositionOf3{
+  /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-320, 150%); */
+    width: 10vw;
+    height: 10vh;
+/* Simply position and size of the box that holds the button to open up subDiv  */
+
+
+}
+
+#method3{
+Holds the size of the font and make sure it aligns left within the box
+I guess I'm confused how this will all play in during ratio size cuz
+obviously it will change everytime
+
+color: 623008;
+/*  */how do I assign a specific color to this?
+}
+
+#WindowOf3{
+  background: black;
+width: 45vw;
+height: 45vw;
+float: center;
+align: center;
+text-align: center;
+
+overflow: scroll;
+}
+
+#CloseBoxof3{
+background: red;
+text-align: center;
+margin-right: 30px;
+margin-top: 20px;
+margin-left: 550px;
+float: center;
+align: center;
+
+}
+.PositionOf4{
+  /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-320, 150%); */
+    width: 10vw;
+    height: 10vh;
+/* Simply position and size of the box that holds the button to open up subDiv  */
+
+
+}
+
+#method4{
+Holds the size of the font and make sure it aligns left within the box
+I guess I'm confused how this will all play in during ratio size cuz
+obviously it will change everytime
+
+color: 623008;
+/*  */how do I assign a specific color to this?
+}
+
+#WindowOf4{
+  background: black;
+width: 45vw;
+height: 45vw;
+float: center;
+align: center;
+text-align: center;
+
+overflow: scroll;
+}
+
+#CloseBoxof4{
+background: red;
+text-align: center;
+margin-right: 30px;
+margin-top: 20px;
+margin-left: 550px;
+float: center;
+align: center;
+
+}
+.PositionOf5{
+  /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-320, 150%); */
+    width: 10vw;
+    height: 10vh;
+/* Simply position and size of the box that holds the button to open up subDiv  */
+
+
+}
+
+#method5{
+Holds the size of the font and make sure it aligns left within the box
+I guess I'm confused how this will all play in during ratio size cuz
+obviously it will change everytime
+
+color: 623008;
+/*  */how do I assign a specific color to this?
+}
+
+#WindowOf5{
+  background: black;
+width: 45vw;
+height: 45vw;
+float: center;
+align: center;
+text-align: center;
+
+overflow: scroll;
+}
+
+#CloseBoxof5{
+background: red;
+text-align: center;
+margin-right: 30px;
+margin-top: 20px;
+margin-left: 550px;
+float: center;
+align: center;
+
+}
+.PositionOf6{
+  /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-320, 150%); */
+    width: 10vw;
+    height: 10vh;
+/* Simply position and size of the box that holds the button to open up subDiv  */
+
+
+}
+
+#method6{
+Holds the size of the font and make sure it aligns left within the box
+I guess I'm confused how this will all play in during ratio size cuz
+obviously it will change everytime
+
+color: 623008;
+/*  */how do I assign a specific color to this?
+}
+
+#WindowOf6{
+  background: black;
+width: 45vw;
+height: 45vw;
+float: center;
+align: center;
+text-align: center;
+
+overflow: scroll;
+}
+
+#CloseBoxof6{
+background: red;
+text-align: center;
+margin-right: 30px;
+margin-top: 20px;
+margin-left: 550px;
+float: center;
+align: center;
+
+}
+.PositionOf7{
+  /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-320, 150%); */
+    width: 10vw;
+    height: 10vh;
+/* Simply position and size of the box that holds the button to open up subDiv  */
+
+
+}
+
+#method7{
+Holds the size of the font and make sure it aligns left within the box
+I guess I'm confused how this will all play in during ratio size cuz
+obviously it will change everytime
+
+color: 623008;
+/*  */how do I assign a specific color to this?
+}
+
+#WindowOf7{
+  background: black;
+width: 45vw;
+height: 45vw;
+float: center;
+align: center;
+text-align: center;
+
+overflow: scroll;
+}
+
+#CloseBoxof7{
+background: red;
+text-align: center;
+margin-right: 30px;
+margin-top: 20px;
+margin-left: 550px;
+float: center;
+align: center;
+
+}
+.PositionOf8{
+  /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-320, 150%); */
+    width: 10vw;
+    height: 10vh;
+/* Simply position and size of the box that holds the button to open up subDiv  */
+
+
+}
+
+#method8{
+Holds the size of the font and make sure it aligns left within the box
+I guess I'm confused how this will all play in during ratio size cuz
+obviously it will change everytime
+
+color: 623008;
+/*  */how do I assign a specific color to this?
+}
+
+#WindowOf8{
+  background: black;
+width: 45vw;
+height: 45vw;
+float: center;
+align: center;
+text-align: center;
+
+overflow: scroll;
+}
+
+#CloseBoxof8{
+background: red;
+text-align: center;
+margin-right: 30px;
+margin-top: 20px;
+margin-left: 550px;
+float: center;
+align: center;
+
+}
+.PositionOf9{
+  /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-320, 150%); */
+    width: 10vw;
+    height: 10vh;
+/* Simply position and size of the box that holds the button to open up subDiv  */
+
+
+}
+
+#method9{
+Holds the size of the font and make sure it aligns left within the box
+I guess I'm confused how this will all play in during ratio size cuz
+obviously it will change everytime
+
+color: 623008;
+/*  */how do I assign a specific color to this?
+}
+
+#WindowOf9{
+  background: black;
+width: 45vw;
+height: 45vw;
+float: center;
+align: center;
+text-align: center;
+
+overflow: scroll;
+}
+
+#CloseBoxof9{
+background: red;
+text-align: center;
+margin-right: 30px;
+margin-top: 20px;
+margin-left: 550px;
+float: center;
+align: center;
+
+}
+.PositionOf10{
+  /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-320, 150%); */
+    width: 10vw;
+    height: 10vh;
+/* Simply position and size of the box that holds the button to open up subDiv  */
+
+
+}
+
+#method10{
+Holds the size of the font and make sure it aligns left within the box
+I guess I'm confused how this will all play in during ratio size cuz
+obviously it will change everytime
+
+color: 623008;
+/*  */how do I assign a specific color to this?
+}
+
+#WindowOf10{
+  background: black;
+width: 45vw;
+height: 45vw;
+float: center;
+align: center;
+text-align: center;
+
+overflow: scroll;
+}
+
+#CloseBoxof10{
+background: red;
+text-align: center;
+margin-right: 30px;
+margin-top: 20px;
+margin-left: 550px;
+float: center;
+align: center;
+
+}
+
+#map:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+#music_library:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+
+#DNA:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+#health:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+#live:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+#highlight:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+#twitter:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+#email:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+#diary:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+#instagram:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+#face:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(.5px, .5px) rotate(0deg); }
+  10% { transform: translate(-.5px, -1px) rotate(-.5deg); }
+  20% { transform: translate(-1.5px, 0px) rotate(.5deg); }
+  30% { transform: translate(1.5px, 1px) rotate(0deg); }
+  40% { transform: translate(.5px, -.5px) rotate(.5deg); }
+  50% { transform: translate(-.5px, 1px) rotate(-.5deg); }
+  60% { transform: translate(-1.5px, .5px) rotate(0deg); }
+  70% { transform: translate(1.5px, .5px) rotate(-.5deg); }
+  80% { transform: translate(-.5px, -.5px) rotate(.5deg); }
+  90% { transform: translate(.5px, 1px) rotate(0deg); }
+  100% { transform: translate(.5px, -1px) rotate(-.5deg); }
+}
+
+
+
+
+/* #email {
+  animation: example 1s ease alternate infinite;
+
+}
+
+@keyframes example {
+  from {transform: translate(0,0);}
+  to {transform: translate(2px, 2px);}
+}
+
+#email:hover {
+  transform: scale(1.01);
+  transition: transform  .2s ease-in;
+
+} */
